@@ -1,6 +1,5 @@
-### Hi there 👋
 
-
+<center>
 👋 About Me
 ---
 🏫 Sookmyung Women University - IT Engineering <br/>
@@ -17,3 +16,4 @@
 ⚡ Stats
 ---
 ![ohyujeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohyujeong&show_icons=true&theme=radical)
+</center>
