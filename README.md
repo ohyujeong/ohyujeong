@@ -1,7 +1,8 @@
-### Hi, I'm yujeong 👋
 
 <div align=center>
-👋 About Me
+  
+ ### Hi, I'm yujeong 👋
+👋 About Me <br/>
 ---
 🏫 Sookmyung Women University - IT Engineering <br/>
 🤓 I’m interested in BackEnd development <br/>
@@ -18,8 +19,7 @@
 ---
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) </br>
 
-⚡ Stats
----
+
 ![ohyujeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohyujeong&show_icons=true&theme=radical)
   
 </div>
