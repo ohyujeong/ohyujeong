@@ -7,7 +7,8 @@
 🏫 Sookmyung Women University - IT Engineering <br/>
 🤓 I’m interested in BackEnd development <br/>
 🔥 [KUSIMS](https://github.com/KUSITMS-Official) (Korean University Students IT, Management Society) 24rd Academic member (2021.09~2021.11) <br/>
-
+  [DND(For Desginer & Developer)] (https://github.com/dnd-side-project)
+ 
 💻 Tech Stack 💻
 ---
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/ohyujeong/24th_DemoDay_Wantudy-Server_3) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=green)](https://github.com/ohyujeong/24th_DemoDay_Wantudy-Server_3) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black)](https://github.com/ohyujeong/24th_DemoDay_Wantudy-Server_3) <br/>
