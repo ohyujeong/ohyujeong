@@ -7,7 +7,7 @@
 🏫 Sookmyung Women University - IT Engineering <br/>
 🤓 I’m interested in BackEnd development <br/>
 🔥 [KUSIMS](https://github.com/KUSITMS-Official) (Korean University Students IT, Management Society) 24rd Academic member (2021.09~2021.11) <br/>
-  [DND(For Desginer & Developer)](https://github.com/dnd-side-project) 6th member
+  [DND](https://github.com/dnd-side-project) (For Developer & Designer )6th member 2022.01~2022.02
  
 💻 Tech Stack 💻
 ---
