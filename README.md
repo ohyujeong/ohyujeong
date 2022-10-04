@@ -18,6 +18,6 @@
   
 ✨ Cowork tools ✨  
 ---
-![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) </br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
   
 </div>
