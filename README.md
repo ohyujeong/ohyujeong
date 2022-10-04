@@ -8,6 +8,7 @@
 🤓 I’m interested in BackEnd development <br>
 🔥 [KUSIMS](https://github.com/KUSITMS-Official) (Korean University Students IT, Management Society) 24rd Academic member (2021.09 - 2021.11) <br>
 🟣 [DND](https://dnd.ac/) (For Developer & Designer) 6th Backend member (2022.01 - 2022.02) <br>
+🍚 [삼시세끼](https://litt.ly/samshisekki) Backend Developer
  
 💻 Tech Stack 💻
 ---
