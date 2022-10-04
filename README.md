@@ -1,5 +1,5 @@
 
-<div align=center>
+<div align=left>
   
  ### Hi, I'm yujeong 👋
 👋 About Me <br/>
