@@ -1,5 +1,4 @@
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohyujeong&count_bg=%23000CF7&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  <br/>
+
 
 <div align=left>
 
@@ -21,5 +20,11 @@
 ✨ Cowork tools ✨  
 ---
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
+
+---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohyujeong&count_bg=%23000CF7&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
   
 </div>
