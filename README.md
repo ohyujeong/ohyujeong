@@ -11,7 +11,7 @@
 🟣 [DND](https://dnd.ac/) (For Developer & Designer) 6th Backend member (2022.01 - 2022.02) <br>
 🍚 [삼시세끼](https://litt.ly/samshisekki) Backend Developer
  
-💻 Tech Stack 💻
+💻 Tech Stack
 ---
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/ohyujeong/24th_DemoDay_Wantudy-Server_3)  [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/ohyujeong/dnd-6th-2-backend)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br/>
@@ -21,11 +21,14 @@
 	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   
-✨ Cowork tools ✨  
+✨ Cowork tools  
 ---
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
+:email: Contact 
 ---
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ohlife4@gmail.com)
 
 
   
